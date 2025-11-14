@@ -33,6 +33,8 @@ section{
 }
 
 td{
+    overflow-x:auto;
+    border: 1px solid;
     width: 33%;
 }
 
